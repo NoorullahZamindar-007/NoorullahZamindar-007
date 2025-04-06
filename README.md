@@ -21,8 +21,8 @@ I'm an AI and Machine Learning enthusiast with a strong interest in **Cybersecur
 - **Tools:** Jupyter Notebook, Git, Docker, Flask
 
 ### 📫 Let's Connect
-- **LinkedIn:** [Your LinkedIn Profile](www.linkedin.com/in/noorullah-zamindar-4975a328a)  
-- **GitHub:** [@NoorullahZamindar](https://github.com/your-github)  
+- **LinkedIn:** [Your LinkedIn Profile](www.linkedin.com/in/noorullah-zamindar-4975a328a/)  
+- **GitHub:** [@NoorullahZamindar](https://github.com/NoorullahZamindar-007)  
 - **Email:** noorullahzamindar007@gmail.com
 
 Feel free to check out my repositories and drop a star ⭐ if you find my work interesting!
