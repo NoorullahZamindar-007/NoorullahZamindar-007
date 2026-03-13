@@ -1,84 +1,64 @@
-# 👋 Hi there! I'm Noorullah Zamindar
+# 🚀 Noorullah Zamindar
 
-🚀 **AI Engineer | Machine Learning Engineer | Automation Systems Developer**
+### AI Engineer | Machine Learning Engineer | Automation Systems Developer
 
-I am a passionate **Artificial Intelligence Engineer and Data Scientist** with more than **5 years of experience in programming, machine learning, and data analytics**. I specialize in building **AI-powered systems, automation pipelines, and intelligent applications** using Python and modern machine learning frameworks.
-
-My work focuses on **AI agents, predictive modeling, automation systems, and intelligent analytics platforms** that help organizations improve decision-making and operational efficiency.
-
----
-
-# 🚀 About Me
-
-* 🤖 AI & Machine Learning Engineer
-* 📊 Data Scientist & Data Analyst
-* 🔐 AI for Cybersecurity Researcher
-* 🧠 Automation Systems Developer
-* 👨‍🏫 AI / ML Trainer (UNDP Programs)
-* 📚 Author of **"Human and Machine"**
-* 🌍 Freelance AI Engineer working with international clients
-
-I enjoy solving complex problems using **data-driven approaches, machine learning models, and automation technologies**.
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+Engineer;Machine+Learning+Engineer;Automation+Systems+Developer;Data+Scientist;AI+Research+Enthusiast" />
+</p>
 
 ---
 
-# 🔬 Research & Interests
+# 👨‍💻 About Me
 
-🧠 Deep Learning & Neural Networks
-🤖 AI Agents & Automation Systems
-🔐 AI for Cybersecurity & Threat Detection
-📊 Data Science & Predictive Analytics
-📈 Business Intelligence & Data Visualization
-⚙️ Workflow Automation & API Integrations
-🏏 Cricket & Community Sports Development
+I am an **Artificial Intelligence Engineer and Data Scientist** with **5+ years of experience in programming, machine learning, and automation systems**.
+
+My work focuses on building **AI-powered applications, intelligent automation systems, predictive analytics platforms, and data-driven solutions**.
+
+I am passionate about **AI research, cybersecurity applications of AI, and scalable machine learning systems**.
+
+🎓 Computer Science Graduate (Software Engineering)
+🤖 AI / ML Trainer (UNDP Programs)
+📊 Data Scientist & Automation Engineer
+📚 Author of **Human and Machine**
 
 ---
 
-# 📂 Featured Projects
+# 🔬 Research Interests
 
-### 🤖 Facial Emotion Recognition System
+* Artificial Intelligence
+* Deep Learning
+* AI Agents & Automation Systems
+* Cybersecurity with AI
+* Predictive Analytics
+* Intelligent Decision Systems
 
-Developed a deep learning model to detect human emotions from facial expressions using **OpenCV, TensorFlow Keras, and Scikit-learn**.
+---
 
-### 📊 Mathematics Performance Prediction
+# 🧠 Featured Projects
 
-Built machine learning models using **XGBoost and Random Forest** to analyze student academic performance based on socio-economic factors.
+### Facial Emotion Recognition
 
-### 🔐 Cybersecurity Threat Detection with AI
+Deep learning model to detect emotions using **OpenCV, TensorFlow, and CNN architectures**.
 
-Developed AI models for detecting security vulnerabilities and cyber threats using **machine learning classification algorithms**.
+### AI Email Auto-Responder
 
-### 📧 AI Email Auto-Responder Agent
+AI agent that automatically **reads emails and generates intelligent replies** using APIs and AI models.
 
-Built an AI system that automatically reads emails and generates intelligent responses using **AI models and Gmail API**.
+### AI Customer Support Chatbot
 
-### 💬 WhatsApp / Telegram Customer Support Bot
+AI chatbot capable of **handling customer queries automatically via web interface**.
 
-Developed an AI-powered chatbot that handles customer inquiries and provides automated responses.
+### Cybersecurity Threat Detection
 
-### 📑 AI Invoice & Document Extractor
+Machine learning models for **detecting cyber threats and security vulnerabilities**.
 
-Created an AI-based document processing system that extracts key information from invoices using **OCR and machine learning**.
+### AI POS System with Business Analytics
 
-### 🌐 Website Lead Capture → CRM Automation
+Point-of-sale desktop application integrated with **AI analytics for sales insights**.
 
-Developed a workflow automation system that captures website leads and automatically sends them to CRM systems.
+### Car Reservation Web Application
 
-### 📱 Online Car Reservation System
-
-Developed a web application for transportation services using **Flask backend and Flutter frontend**.
-
-### 📈 Flood Prediction Analysis
-
-Applied machine learning techniques to predict flood risks using environmental datasets.
-
-### 🌍 World Happiness Data Analysis
-
-Analyzed global happiness trends using statistical analysis and data visualization.
-
-### 🧾 AI-Enhanced POS Desktop System
-
-Built a **Point-of-Sale desktop application with AI analytics** that generates intelligent business insights from sales data.
+Developed using **Flask backend and Flutter frontend** for transportation services.
 
 ---
 
@@ -86,78 +66,113 @@ Built a **Point-of-Sale desktop application with AI analytics** that generates i
 
 ### Languages
 
-Python • SQL • C++
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
 
-### AI / ML Libraries
+---
 
-TensorFlow • Keras • Scikit-learn • OpenCV • NumPy • Pandas • Matplotlib
+### AI / ML
 
-### Frameworks
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge\&logo=tensorflow\&logoColor=white)
+![Scikit](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge\&logo=scikit-learn\&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge\&logo=opencv\&logoColor=white)
 
-Flask • REST APIs
+---
+
+### Data Science
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge\&logo=python)
+
+---
+
+### Backend
+
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge\&logo=flask)
+
+---
 
 ### Databases
 
-MySQL • SQLite • SQL Server
-
-### Automation & Tools
-
-Zapier • n8n • Make • Webhooks • APIs
-
-### Developer Tools
-
-Git • Docker • VS Code • Jupyter Notebook • Anaconda • Google Colab
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge\&logo=sqlite)
 
 ---
 
-# 📊 Areas of Expertise
+# ⚙️ Automation Tools
 
-✔ Artificial Intelligence
-✔ Machine Learning
-✔ Data Science
-✔ AI Automation Systems
-✔ Predictive Analytics
-✔ Workflow Automation
-✔ Backend Development
-✔ API Integrations
+* Zapier
+* n8n
+* Make (Integromat)
+* API Integrations
+* Webhooks
 
 ---
 
-# 📚 Publications
+# 📊 GitHub Stats
 
-📖 **Human and Machine**
-A research-oriented book exploring the relationship between artificial intelligence and human capabilities, focusing on the future of AI and its societal impact.
+<p align="center">
 
----
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=NoorullahZamindar-007&show_icons=true&theme=tokyonight"/>
 
-# 🌍 Open Source & Community
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoorullahZamindar-007&layout=compact&theme=tokyonight"/>
 
-* Contributor to **AI & Data Science research groups**
-* Active in **open-source machine learning projects**
-* Trainer in **AI, Data Science, and Freelancing Programs**
-* Supporting **technology education in developing communities**
+</p>
 
 ---
 
-# 📫 Connect With Me
+# 🔥 GitHub Contribution Graph
 
-🔗 **LinkedIn**
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=NoorullahZamindar-007&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Achievements
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=NoorullahZamindar-007&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📈 Profile Visitors
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=NoorullahZamindar-007&label=Profile%20views&color=0e75b6&style=flat"/>
+
+</p>
+
+---
+
+# 🌍 Connect With Me
+
+LinkedIn
 [https://www.linkedin.com/in/noorullah-zamindar-4975a328a/](https://www.linkedin.com/in/noorullah-zamindar-4975a328a/)
 
-💻 **Portfolio**
+Portfolio
 [https://noorullahzamindar-007.github.io/Portfolio/](https://noorullahzamindar-007.github.io/Portfolio/)
 
-📧 **Email**
-[noorullahzamindar9@gmail.com](mailto:noorullahzamindar9@gmail.com)
-
-🐙 **GitHub**
+GitHub
 [https://github.com/NoorullahZamindar-007](https://github.com/NoorullahZamindar-007)
+
+Email
+[noorullahzamindar9@gmail.com](mailto:noorullahzamindar9@gmail.com)
 
 ---
 
-⭐ If you find my projects helpful, feel free to **star the repositories** and connect with me!
+⭐ If you like my work, consider **starring the repositories** and connecting with me!
 
-> *"Building intelligent systems that combine Artificial Intelligence, Automation, and Data Science."*
+---
 
+💡 *Building intelligent systems powered by Artificial Intelligence and automation.*
 
-If you want, I can also give you a **GitHub README that looks like a TOP AI developer profile (with badges, stats, animations, and GitHub graphs)** — the type used by **Google / OpenAI / Microsoft engineers**.
+---
